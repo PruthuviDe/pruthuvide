@@ -41,21 +41,10 @@
 
 
 
-## 📊 Weekly Developement Breakdown
-  
-<!--START_SECTION:waka-->
 
-```text
-JavaScript   1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
-CSS          1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
-JSON         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
-Markdown     57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-HTML         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
-```
-
-<!--END_SECTION:waka--> 
-
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthuvide&theme=dracula&hide_border=true" />
+</p>
 
 |   ![Abdul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=pruthuvide&theme=rogue) |
 | :---: |
