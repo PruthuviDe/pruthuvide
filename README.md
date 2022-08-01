@@ -6,11 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pruthuvide&label=Profile%20views&color=0e75b6&style=flat" alt="pruthuvide" /> </p>
 
-<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=180px>
+<img src = "https://user-images.githubusercontent.com/61582763/134278937-ed33e623-b833-4565-945d-29fa43ea0b7c.gif" align = "right" alt="my_octocat" width=300px>
 
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pruthuvide" alt="pruthuvide" /></a> </p>
+<p align="left">
+    <img src="https://github-profile-trophy.vercel.app/?username=pruthuvide&theme=radical" >   
+</p>       
+     
 
 <p align="left"> <a href="https://twitter.com/pruthuvide" target="blank"><img src="https://img.shields.io/twitter/follow/pruthuvide?logo=twitter&style=for-the-badge" alt="pruthuvide" /></a> </p>
 
@@ -39,7 +41,20 @@
 
 
 
+## 📊 Weekly Developement Breakdown
+  
+<!--START_SECTION:waka-->
 
+```text
+JavaScript   1 hr 52 mins    ███████▓░░░░░░░░░░░░░░░░░   30.44 %
+CSS          1 hr 31 mins    ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
+JSON         1 hr 7 mins     ████▓░░░░░░░░░░░░░░░░░░░░   18.31 %
+Markdown     57 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+HTML         40 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+```
+
+<!--END_SECTION:waka--> 
 
 
 |   ![Abdul's's github activity graph](https://activity-graph.herokuapp.com/graph?username=pruthuvide&theme=rogue) |
