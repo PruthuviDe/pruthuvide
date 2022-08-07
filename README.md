@@ -20,7 +20,7 @@
 <!-- Your badges -->
 [![Linkedin](https://img.shields.io/badge/-Pruthuvi_DeSilva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthuvide/)
 [![Gmail](https://img.shields.io/badge/-Pruthuvi_DeSilva-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pruthuvidesilva@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Pruthuvi_DeSilva-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/)
+[![HackerRank](https://img.shields.io/badge/-Pruthuvi_DeSilva-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/pruthuvide)
 [![Stack_Overflow](https://img.shields.io/badge/-Pruthuvi_DeSilva-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/15095374/pruthuvide)
 <!-- Profile View Count and GitStats -->
 ![](https://komarev.com/ghpvc/?username=pruthuvide&style=flat)
