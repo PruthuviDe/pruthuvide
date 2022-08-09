@@ -1,5 +1,16 @@
 
-<meta name="google-site-verification" content="dKYry31jbJPqJYLapEJzOYKlJleFLFjqvuGXdVXCNlw" />
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta name="google-site-verification" content="dKYry31jbJPqJYLapEJzOYKlJleFLFjqvuGXdVXCNlw" />
+  </head>
+  <body>
+	
+  </body>
+</html>
+
+
 
 [![MasterHead](https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pruthuvi</h1>
