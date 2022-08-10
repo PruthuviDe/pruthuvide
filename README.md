@@ -20,7 +20,7 @@
 </strong>
 </p>
 <p style = "text-align: left;"><strong>
-	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
+	As a Hobby, I like to play Pc Games and read books. I also love Physics, Space or anything related to it.
 </strong>
 </p>
 
