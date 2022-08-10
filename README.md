@@ -11,7 +11,7 @@
 
 ##
 
-<img src = "https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif" align = "right" alt="my_octocat" width=190px>
+<img src = "https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif" align = "right" alt="my_octocat" width=180px>
 
 
 <p align="left">
