@@ -44,7 +44,7 @@
 
 
 
-<a href="https://app.daily.dev/pruthuvide"><img src = "https://api.daily.dev/devcards/a071628ccdd5498490954a312fd28238.png?r=zzs" align = "right" alt="my_octocat" width=180px></a>
+<a href="https://app.daily.dev/pruthuvide"><img src = "https://api.daily.dev/devcards/a071628ccdd5498490954a312fd28238.png?r=zzs" align = "right" alt="my_octocat" width=150px></a>
 
 
 
