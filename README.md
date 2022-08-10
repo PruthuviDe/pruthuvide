@@ -1,17 +1,52 @@
-
-<head>
-<meta name="google-site-verification" content="dKYry31jbJPqJYLapEJzOYKlJleFLFjqvuGXdVXCNlw" />
-</head>
-
 [![MasterHead](https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png)](https://pruthuvide.github.io/)
 
-<div align="center">
-<a href="https://app.daily.dev/pruthuvide"><img src="https://api.daily.dev/devcards/a071628ccdd5498490954a312fd28238.png?r=zzs" width="300" alt="Pruthuvi De Silva's Dev Card"/></a>
+
+
+<div align="Center">
+
+<h2 style = "text-align: center;"><strong>Hi, I'm Pruthuvi</strong></h2>
+
+
+![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
+
+
+<p style = "text-align: center;"><strong>
+	I am a self-taught developer, who loves exploring different technologies. 
+	Also, I love and contribute to OpenSource. 
+</strong>
+</p>
+<p style = "text-align: left;"><strong>
+	My interest lies in Web Development, Cybersecurity and Blockchain technology.
+</strong>
+</p>
+<p style = "text-align: left;"><strong>
+	As a Hobby, I like to play Chess and read Physics books. I also love Cosmology, Space or anything related to it.
+</strong>
+</p>
+
+
+
+
+
+
+![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
+
+
 </div>
+
+
+
+
+
+
 
 ##
 
-<img src = "https://github.com/adityathakekar/adityathakekar/blob/master/assests/git.gif" align = "right" alt="my_octocat" width=180px>
+
+
+<a href="https://app.daily.dev/pruthuvide"><img src = "https://api.daily.dev/devcards/a071628ccdd5498490954a312fd28238.png?r=zzs" align = "right" alt="my_octocat" width=180px></a>
+
+
 
 
 <p align="left">
