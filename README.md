@@ -80,7 +80,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthuvide&theme=dracula&hide_border=true" />
 </p>
 
-
+![Stats Overview](https://raw.githubusercontent.com/pruthuvide/github-stats-transparent/output/generated/overview.svg)
 
 | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pruthuvide&theme=city-lights) |
 | :---: | :---: |
