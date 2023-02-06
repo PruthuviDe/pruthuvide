@@ -80,11 +80,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthuvide&theme=dracula&hide_border=true" />
 </p>
 
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/pruthuvide/github-stats-transparent/output/generated/overview.svg)
 
-</a>
 
 | ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pruthuvide&theme=city-lights) |
 | :---: | :---: |
@@ -103,9 +99,8 @@
 <div align = "center">
 	
 	
-## MY HACKTOBERFEST CONTRIBUTION RESULT[![@pruthuvi's Holopin board](https://holopin.me/pruthuvide)](https://holopin.io/@pruthuvide)
-	
- 
+
+
 **Visitors Count**  
 
 ![VisitorCount](https://profile-counter.glitch.me/{pruthuvide}/count.svg)
