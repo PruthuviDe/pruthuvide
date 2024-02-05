@@ -43,3 +43,11 @@
 <img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
 </a>
 </p>
+
+<br>
+</br>
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=class+HelloWorld+%7Bpublic+static+void%3C+main(String%5B%5D+args)+%7B+System.out.%3Cprintln(%22Hello%2C+World!%22);+%7D+%7D)](https://git.io/typing-svg)
+
+
+
