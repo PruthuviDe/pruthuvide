@@ -46,8 +46,9 @@
 
 <br>
 </br>
-  
 
 
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Sublime's custom image"/>
+</p>
 
