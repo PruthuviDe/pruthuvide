@@ -18,3 +18,28 @@
   <br>
   <a href="https://www.buymeacoffee.com/pruthuvide"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="pruthuvide" /></a>
 </p>
+
+
+
+<br>
+</br>
+<!-- Featured Repositories -->
+
+<p align="center">
+<a href="https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/pruthuvide/FlightTry">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=FlightTry&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
+<p align="center">
+<a href="https://github.com/pruthuvide/Travel-Lanka-Website">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+<span>&nbsp;</span>
+<a href="https://github.com/pruthuvide/Movie-Ticket-Booking-C-Language">
+<img width='49%' align="center"src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Movie-Ticket-Booking-C-Language&border_color=02D892&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=02D892" />
+</a>
+</p>
