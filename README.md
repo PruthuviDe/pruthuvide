@@ -1,112 +1,20 @@
-[![MasterHead](https://raw.githubusercontent.com/Asmit2952/Asmit2952/master/src/header_.png)](https://pruthuvide.github.io/)
-
-
-
-<div align="Center">
-
-<h2 style = "text-align: center;"><strong>Hi, I'm Pruthuvi</strong></h2>
-
-
-![line](https://user-images.githubusercontent.com/57281769/139474820-48edd3b4-3025-4ac6-abd0-d1c9b4fb2b5f.png)
-
-
-<p style = "text-align: center;"><strong>
-	I am a self-taught developer, who loves exploring different technologies. 
-	Also, I love and contribute to OpenSource. 
-</strong>
-</p>
-<p style = "text-align: left;"><strong>
-	My interest lies in Web Development, Cybersecurity and Blockchain technology.
-</strong>
-</p>
-<p style = "text-align: left;"><strong>
-	As a Hobby, I like to play Pc Games and read books. I also love Physics, Space or anything related to it.
-</strong>
-</p>
-
-
-
-
-
-
-![line](https://user-images.githubusercontent.com/57281769/139475005-b358700b-01ff-4f84-8fcd-dcbe8743b12d.png)
-
-
-</div>
-
-
-
-
-
-
-
-##
-
-
-
-<a href="https://app.daily.dev/pruthuvide"><img src = "https://api.daily.dev/devcards/a071628ccdd5498490954a312fd28238.png?r=zzs" align = "right" alt="my_octocat" width=150px></a>
-
-
-
-
-<p align="left">
-    <img src="https://github-profile-trophy.vercel.app/?username=pruthuvide&theme=radical" >   
-</p>       
- 
-
-<h3 align="left">Connect with me</h3>
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-Pruthuvi_DeSilva-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pruthuvide/)
-[![Gmail](https://img.shields.io/badge/-Pruthuvi_DeSilva-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pruthuvidesilva@gmail.com)
-[![HackerRank](https://img.shields.io/badge/-Pruthuvi_DeSilva-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/pruthuvide)
-[![Stack_Overflow](https://img.shields.io/badge/-Pruthuvi_DeSilva-orange?style=flat&logo=StackOverflow&logoColor=white)](https://stackoverflow.com/users/15095374/pruthuvide)
-<!-- Profile View Count and GitStats -->
-![](https://komarev.com/ghpvc/?username=pruthuvide&style=flat)
-[![Github](https://img.shields.io/badge/-Pruthuvi_DeSilva-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://gitstats.me/pruthuvide)
-[![GitHub Pruthuvi-DeSilva](https://img.shields.io/github/followers/PruthuviDe?label=follow&style=social)](https://github.com/pruthuvide) 
-
-<h3 align="left">Languages and Tools</h3>
-<p align="left"> 
-
-[![Skills](https://skillicons.dev/icons?i=c,cpp,java,cs,androidstudio,arduino,javascript,bootstrap,nodejs,react,py,cs,html,css,azure,aws,heroku,cloudflare,mongodb,mysql,github,git,linux,bash,vscode,unity,visualstudio&theme=light)](https://pruthuvide.github.io/)
-</p>
-
-
-
-### Github Analytics
-
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pruthuvide&theme=dracula&hide_border=true" />
-</p>
-
-
-
-| ![Abdul's GitHub stats](https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=city_lights) | ![Abdul's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pruthuvide&theme=city-lights) |
-| :---: | :---: |
-
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&theme=city_lights) |
-| :---: |
-
-#
-
-### Find Popular Repositories
-
-<a href="https://t.me/s/github_repositories" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/49933115/139837223-bf23d3a9-4638-4e17-994a-ac8678d5f517.png" alt="android" width="40" height="40"/> </a>
-
-##
-
-<div align = "center">
-	
-	
-
-
-**Visitors Count**  
-
-![VisitorCount](https://profile-counter.glitch.me/{pruthuvide}/count.svg)
-<br><br>![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
-</div>
 
 <p align="center">
-  <img src="https://github.com/akshitagupta15june/akshitagupta15june/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://socialify.git.ci/pruthuvide/pruthuvide/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="pruthuvide" width="700" height="300" />
+</p>
+
+
+<p  align="center"><a href="https://www.twitter.com/pruthuvide"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/pruthuvide"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/pruthuvide/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://www.youtube.com/@pruthuvide"><img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a> <a href="https://medium.com/@pruthuvide"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/pruthuvide"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
+
+
+
+
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=pruthuvide&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  <a href="https://www.buymeacoffee.com/pruthuvide"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="pruthuvide" /></a>
 </p>
