@@ -47,7 +47,7 @@
 <br>
 </br>
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=class+HelloWorld+%7Bpublic+static+void%3C+main(String%5B%5D+args)+%7B+System.out.%3Cprintln(%22Hello%2C+World!%22);+%7D+%7D)](https://git.io/typing-svg)
+
 
 
 
