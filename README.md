@@ -61,3 +61,7 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Sublime's custom image"/>
 </p>
 
+
+ ![](https://komarev.com/ghpvc/?username=pruthuvide&color=green)
+
+
