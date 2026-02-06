@@ -71,17 +71,36 @@
 
 ## 🎯 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-[![Arduino Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=github_dark)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
+### 🤖 Arduino Line Following Robot
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=github_dark)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
 
-[![uBlock](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=github_dark)](https://github.com/pruthuvide/uBlock)
+</td>
+<td width="50%">
 
-[![Travel Lanka Website](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=github_dark)](https://github.com/pruthuvide/Travel-Lanka-Website)
+### 🔐 uBlock
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=github_dark)](https://github.com/pruthuvide/uBlock)
 
-[![First Contributions](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=github_dark)](https://github.com/pruthuvide/first-contributions)
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-</div>
+### ✈️ Travel Lanka Website
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=github_dark)](https://github.com/pruthuvide/Travel-Lanka-Website)
+
+</td>
+<td width="50%">
+
+### 👥 First Contributions
+[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=github_dark)](https://github.com/pruthuvide/first-contributions)
+
+</td>
+</tr>
+</table>
 
 ---
 
