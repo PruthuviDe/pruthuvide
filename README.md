@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="./pruthuvide.png" alt="Pruthuvi De Silva" width="600" height="200"/>
+  <img src="./pruthuvide.png" alt="Pruthuvi De Silva" width="100%" height="auto"/>
 </div>
 
 <h3 align="center">☁️ Cloud Engineer | 💻 Backend Developer | .NET Expert</h3>
@@ -71,10 +71,21 @@
 
 ## 🎯 Featured Projects
 
-- 🤖 [Arduino Line Following Robot](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot) - Autonomous robot with obstacle detection
-- 🔐 [uBlock](https://github.com/pruthuvide/uBlock) - Ad blocker project
-- ✈️ [Travel Lanka Website](https://github.com/pruthuvide/Travel-Lanka-Website) - Travel guide website
-- 👥 [First Contributions](https://github.com/pruthuvide/first-contributions) - Open source learning repository
+<div align="center">
+
+### 🤖 Arduino Line Following Robot
+[![Arduino Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
+
+### 🔐 uBlock
+[![uBlock](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/uBlock)
+
+### ✈️ Travel Lanka Website
+[![Travel Lanka Website](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/Travel-Lanka-Website)
+
+### 👥 First Contributions
+[![First Contributions](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/first-contributions)
+
+</div>
 
 ---
 
