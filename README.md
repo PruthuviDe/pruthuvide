@@ -58,12 +58,12 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=dracula&hide_border=true&cache_seconds=86400" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&theme=dracula&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pruthuvide&theme=dracula&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=github_dark&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -73,16 +73,16 @@
 <div align="center">
 
 ### 🤖 Arduino Line Following Robot
-[![Arduino Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=dracula&hide_border=true&cache_seconds=86400)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
+[![Arduino Line Following Robot](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
 
 ### 🔐 uBlock
-[![uBlock](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=dracula&hide_border=true&cache_seconds=86400)](https://github.com/pruthuvide/uBlock)
+[![uBlock](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/uBlock)
 
 ### ✈️ Travel Lanka Website
-[![Travel Lanka Website](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=dracula&hide_border=true&cache_seconds=86400)](https://github.com/pruthuvide/Travel-Lanka-Website)
+[![Travel Lanka Website](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/Travel-Lanka-Website)
 
 ### 👥 First Contributions
-[![First Contributions](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=dracula&hide_border=true&cache_seconds=86400)](https://github.com/pruthuvide/first-contributions)
+[![First Contributions](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=github_dark&hide_border=false)](https://github.com/pruthuvide/first-contributions)
 
 </div>
 
