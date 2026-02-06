@@ -1,6 +1,6 @@
 <!-- Header Section -->
 <div align="center">
-  <img src="./pruthuvide.png" alt="Pruthuvi De Silva" width="300" height="300" style="border-radius: 50%;"/>
+  <img src="./pruthuvide.png" alt="Pruthuvi De Silva" width="600" height="200"/>
 </div>
 
 <h3 align="center">☁️ Cloud Engineer | 💻 Backend Developer | .NET Expert</h3>
@@ -64,11 +64,6 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
-</div>
-
-<div align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=github_dark&hide_border=false" alt="GitHub Streak"/>
 </div>
 
@@ -84,22 +79,18 @@
 ---
 
 ## ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Streak"/>
+</div>
 
 ---
 
 ## 🔝 Top Contributed Repos
 
-![](https://github-contributor-stats.vercel.app/api?username=pruthuvide&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<!-- Footer -->
 <div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=pruthuvide&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Streak"/>
+</div>
 
-**Made with ❤️ by [Pruthuvi De Silva](https://github.com/PruthuviDe) | © 2026**
 
-[Back to Top](#-about-me)
 
 </div>
