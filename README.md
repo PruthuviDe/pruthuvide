@@ -47,6 +47,14 @@
 💡 Enthusiast for clean code and best practices
 ```
 
+<div align="center">
+
+![](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge)
+![](https://img.shields.io/badge/Open%20To%20Collaborate-blue?style=for-the-badge)
+![](https://img.shields.io/badge/Freelancer-Available-green?style=for-the-badge)
+
+</div>
+
 ---
 
 ## 💼 Tech Stack
@@ -88,16 +96,31 @@
 
 ---
 
-## 🏆 Achievements & Highlights
+## � Currently Working On
 
 <div align="center">
-  
-  ![Pro Badge](https://img.shields.io/badge/GitHub%20Pro-✓-brightgreen?style=for-the-badge)
-  
-  **4** followers • **7** following  
-  **National Institute of Business Management**
+
+🔧 Building cloud-native microservices with .NET Core  
+🚀 Exploring DevOps & CI/CD pipelines  
+📚 Contributing to open-source projects  
+🌱 Learning advanced Azure cloud architecture  
+
+**Currently Open To:** Full-time Backend/Cloud Engineer roles | Collaboration on Open Source | Mentoring
 
 </div>
+
+---
+
+## 🤝 Let's Collaborate
+
+I'm always excited to collaborate on projects that involve:
+- ☁️ Cloud Engineering & Architecture
+- 🔧 Backend Development (.NET, Node.js, Python)
+- 🐳 DevOps & Infrastructure
+- 📱 Full-stack Applications
+- 🤖 Automation & Scripting
+
+Do you have an interesting project? Let's connect! 🚀
 
 ---
 
@@ -111,7 +134,22 @@
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🔝 Top Contributed Repos
+## � Latest Articles & Blog Posts
+
+<div align="center">
+
+📖 **Check out my blog posts on:**
+- [Medium](https://medium.com/@pruthuvide) - In-depth technical articles
+- [Dev.to](https://dev.to/pruthuvide) - Community-driven content
+- [Personal Website](https://pruthuvide.github.io) - Portfolio & Projects
+
+**Topics:** Cloud Engineering • Backend Development • .NET • DevOps • Best Practices
+
+</div>
+
+---
+
+## �🔝 Top Contributed Repos
 
 ![](https://github-contributor-stats.vercel.app/api?username=pruthuvide&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
@@ -121,25 +159,82 @@
 
 <div align="center">
 
-**Feel free to reach out to me!**
+**Feel free to reach out to me!** 💬
 
 📧 **Email:** [pruthuvide@outlook.com](mailto:pruthuvide@outlook.com)  
 🌐 **Website:** [pruthuvide.github.io](https://pruthuvide.github.io)  
+💼 **LinkedIn:** [pruthuvide](https://linkedin.com/in/pruthuvide)  
+🐙 **GitHub:** [PruthuviDe](https://github.com/PruthuviDe)
 
-### Support My Work
+Let's build something amazing together! 🚀
+
+---
+
+## 💰 Support My Work
+
+If you find my work helpful, consider supporting me! Your support helps me continue creating amazing projects and contributing to the open-source community.
+
+<div align="center">
 
 <a href="https://www.buymeacoffee.com/pruthuvide" target="_blank">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me a Coffee" width="210">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me a Coffee" width="210" height="60">
 </a>
+
+<a href="https://paypal.me/pruthuvide" target="_blank" style="margin-left: 20px;">
+  <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height="60">
+</a>
+
+**or**
+
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/pruthuvide)
+
+<br>
+
+*Every contribution no matter how small, helps me stay motivated and continue building! ❤️*
 
 </div>
 
 ---
 
 <div align="center">
-  
+
+## 🎖️ Badges & Achievements
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/PruthuviDe)
+[![GitHub followers](https://img.shields.io/github/followers/PruthuviDe?label=Follow&style=social)](https://github.com/PruthuviDe)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ If you like what you see, please consider giving a ⭐ to my repositories!
+
+```
+╔═══════════════════════════════════════════════════╗
+║                                                   ║
+║   Thanks for visiting my GitHub profile! 👋      ║
+║   Let's connect and build awesome things! 🚀     ║
+║                                                   ║
+║   "Code is poetry written in logic"              ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+```
+
 ![Profile Views](https://komarev.com/ghpvc/?username=pruthuvide&color=brightgreen&style=flat-square)
 
 [![](https://visitcount.itsvg.in/api?id=pruthuvide&icon=0&color=0)](https://visitcount.itsvg.in)
-  
+
+</div>
+
+---
+
+<!-- Footer -->
+<div align="center">
+
+**Made with ❤️ by [Pruthuvi De Silva](https://github.com/PruthuviDe) | © 2026**
+
+[Back to Top](#-im-pruthuvi-de-silva)
+
 </div>
