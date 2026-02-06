@@ -69,41 +69,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🤖 Arduino Line Following Robot
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Arduino-Line-Following-Obstacle-Avoiding-Robot&theme=github_dark)](https://github.com/pruthuvide/Arduino-Line-Following-Obstacle-Avoiding-Robot)
-
-</td>
-<td width="50%">
-
-### 🔐 uBlock
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=uBlock&theme=github_dark)](https://github.com/pruthuvide/uBlock)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### ✈️ Travel Lanka Website
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=Travel-Lanka-Website&theme=github_dark)](https://github.com/pruthuvide/Travel-Lanka-Website)
-
-</td>
-<td width="50%">
-
-### 👥 First Contributions
-[![](https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=first-contributions&theme=github_dark)](https://github.com/pruthuvide/first-contributions)
-
-</td>
-</tr>
-</table>
-
----
-
 ## ✍️ Random Dev Quote
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Streak"/>
