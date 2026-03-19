@@ -66,7 +66,20 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=github_dark&hide_border=false" alt="GitHub Streak"/>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=dracula&include_all_commits=true&ring_color=8B5CF6" />
+  </a>
+  
+  <!-- Top Languages Card -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+  </a>
+</div>
+
+<div align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=dark&hide_border=false" alt="GitHub Streak"/>
 </div>
 
 ---
@@ -81,9 +94,9 @@
 ## 🔝 Top Contributed Repos
 
 <div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=pruthuvide&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="GitHub Streak"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=pruthuvide&repo=pruthuvide&theme=dracula&show_owner=true" />
+  </a>
 </div>
 
-
-
-</div>
+---
