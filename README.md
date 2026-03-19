@@ -51,7 +51,7 @@
 ![](https://img.shields.io/badge/Open%20To%20Collaborate-blue?style=for-the-badge)
 ![](https://img.shields.io/badge/Freelancer-Available-green?style=for-the-badge)
 
-[![GitHub Copilot CLI 101 — Completed](https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png)](https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8)
+<a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png" alt="GitHub Copilot CLI 101 — Completed" height="130"/></a>
 
 </div>
 
