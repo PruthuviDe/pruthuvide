@@ -52,6 +52,7 @@
 ![](https://img.shields.io/badge/Freelancer-Available-green?style=for-the-badge)
 
 <a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png" alt="GitHub Copilot CLI 101 — Completed" height="130"/></a>
+<a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" alt="Github for Beginners Badge" height="130"/></a>
 
 </div>
 
