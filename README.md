@@ -59,6 +59,9 @@
 <a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/239"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Intermediate.png" alt="GitHub Actions Intermediate" height="130"/></a>
 <a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/242"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Advanced.png" alt="GitHub Actions Advanced" height="130"/></a>
 
+<!-- Docker 101 Badge -->
+<a href="https://github.com/nisalgunawardhana/docker-101/issues/49"><img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" alt="Docker 101 Badge" height="130"/></a>
+
 </div>
 
 ---
