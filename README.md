@@ -54,6 +54,11 @@
 <a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png" alt="GitHub Copilot CLI 101 — Completed" height="130"/></a>
 <a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" alt="Github for Beginners Badge" height="130"/></a>
 
+<!-- GitHub Actions Learning Badges -->
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/233"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" alt="GitHub Actions Beginner" height="130"/></a>
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/239"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Intermediate.png" alt="GitHub Actions Intermediate" height="130"/></a>
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/242"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Advanced.png" alt="GitHub Actions Advanced" height="130"/></a>
+
 </div>
 
 ---
