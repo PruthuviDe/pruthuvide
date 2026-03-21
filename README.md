@@ -62,6 +62,9 @@
 <!-- Docker 101 Badge -->
 <a href="https://github.com/nisalgunawardhana/docker-101/issues/49"><img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" alt="Docker 101 Badge" height="130"/></a>
 
+<!-- API Learning 101 Badge -->
+<a href="https://github.com/nisalgunawardhana/api-learning-101/issues/166"><img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" alt="API Learning 101 Badge" height="130"/></a>
+
 </div>
 
 ---
