@@ -65,6 +65,12 @@
 <!-- API Learning 101 Badge -->
 <a href="https://github.com/nisalgunawardhana/api-learning-101/issues/166"><img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" alt="API Learning 101 Badge" height="130"/></a>
 
+<!-- GitHub Models Starter Pro Badge -->
+<a href="https://github.com/nisalgunawardhana/Github-models-starter-pro/issues/112"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-models-starter-pro/main/Images/badge.png" alt="GitHub Models Starter Pro Badge" height="130"/></a>
+
+<!-- How to Create MCP Server Badge -->
+<a href="https://github.com/nisalgunawardhana/How-To-Create-MCP-Server/issues/58"><img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="How to Create MCP Server Badge" height="130"/></a>
+
 </div>
 
 ---
