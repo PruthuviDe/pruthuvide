@@ -1,118 +1,193 @@
 <!-- Header Section -->
-<div align="center">
-  <img src="./pruthuvide.png" alt="Pruthuvi De Silva" width="100%" height="auto"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:8B5CF6&text=Pruthuvi%20De%20Silva&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<h3 align="center">☁️ Cloud Engineer | 💻 Backend Developer | .NET Expert</h3>
+<h3 align="center">☁️ Cloud Engineer | 💻 Backend Developer | .NET & AI Enthusiast</h3>
 
 <p align="center">
-  <em>Building scalable cloud solutions & passionate about clean code</em>
+  <em>Building scalable cloud solutions & passionate about clean architecture</em>
 </p>
 
----
-
-<!-- Social Links -->
 <p align="center">
-  <a href="https://twitter.com/pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://linkedin.com/in/pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://youtube.com/@pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-  <a href="https://medium.com/@pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://dev.to/pruthuvide" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
+  <a href="https://komarev.com/ghpvc/?username=pruthuvide">
+    <img src="https://komarev.com/ghpvc/?username=pruthuvide&label=Profile%20views&color=8B5CF6&style=flat-square" alt="pruthuvide's profile views" />
   </a>
 </p>
 
 ---
 
-## 🚀 About Me
+<!-- About Me Section -->
+## 📌 About Me
 
-```
+```text
 👨‍💻 Backend Developer specializing in .NET & Cloud Engineering
-☁️  Passionate about building scalable cloud solutions
-🎓 Undergraduate Student @ Coventry | BSc (Hons) Computing
-📍 Based in Colombo, Sri Lanka
-💡 Enthusiast for clean code and best practices
+☁️  Passionate about building scalable cloud solutions & microservices
+🎓  Undergraduate Student @ Coventry | BSc (Hons) Computing
+📍  Based in Colombo, Sri Lanka
+💡  Enthusiast for clean code, system architecture, and AI integrations
 ```
 
 <div align="center">
 
-![](https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge)
-![](https://img.shields.io/badge/Open%20To%20Collaborate-blue?style=for-the-badge)
-![](https://img.shields.io/badge/Freelancer-Available-green?style=for-the-badge)
+<img src="https://img.shields.io/badge/Open%20To%20Work-brightgreen?style=for-the-badge" alt="Open to work"/>
+<img src="https://img.shields.io/badge/Open%20To%20Collaborate-blue?style=for-the-badge" alt="Open to collaborate"/>
+<img src="https://img.shields.io/badge/Freelancer-Available-green?style=for-the-badge" alt="Freelancer Available"/>
 
-<a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png" alt="GitHub Copilot CLI 101 — Completed" height="130"/></a>
-<a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" alt="Github for Beginners Badge" height="130"/></a>
+<br/><br/>
 
-<!-- GitHub Actions Learning Badges -->
-<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/233"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" alt="GitHub Actions Beginner" height="130"/></a>
-<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/239"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Intermediate.png" alt="GitHub Actions Intermediate" height="130"/></a>
-<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/242"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Advanced.png" alt="GitHub Actions Advanced" height="130"/></a>
-
-<!-- Docker 101 Badge -->
-<a href="https://github.com/nisalgunawardhana/docker-101/issues/49"><img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" alt="Docker 101 Badge" height="130"/></a>
-
-<!-- API Learning 101 Badge -->
-<a href="https://github.com/nisalgunawardhana/api-learning-101/issues/166"><img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" alt="API Learning 101 Badge" height="130"/></a>
-
-<!-- GitHub Models Starter Pro Badge -->
-<a href="https://github.com/nisalgunawardhana/Github-models-starter-pro/issues/112"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-models-starter-pro/main/Images/badge.png" alt="GitHub Models Starter Pro Badge" height="130"/></a>
-
-<!-- How to Create MCP Server Badge -->
-<a href="https://github.com/nisalgunawardhana/How-To-Create-MCP-Server/issues/58"><img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="How to Create MCP Server Badge" height="130"/></a>
+<!-- GitHub Certifications / Learning Badges -->
+<a href="https://github.com/nisalgunawardhana/github-copilot-cli-101/issues/8"><img src="https://github.com/nisalgunawardhana/github-copilot-cli-101/raw/main/images/badge.png" alt="GitHub Copilot CLI 101 — Completed" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/Github-for-beginners/issues/8"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-for-beginners/main/images/badge.png" alt="Github for Beginners Badge" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/233"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Beginner.png" alt="GitHub Actions Beginner" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/239"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Intermediate.png" alt="GitHub Actions Intermediate" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/github-actions-learning/issues/242"><img src="https://raw.githubusercontent.com/nisalgunawardhana/github-actions-learning/main/images/Advanced.png" alt="GitHub Actions Advanced" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/docker-101/issues/49"><img src="https://raw.githubusercontent.com/nisalgunawardhana/docker-101/main/images/badge.png" alt="Docker 101 Badge" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/api-learning-101/issues/166"><img src="https://raw.githubusercontent.com/nisalgunawardhana/api-learning-101/main/images/badges/badge.png" alt="API Learning 101 Badge" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/Github-models-starter-pro/issues/112"><img src="https://raw.githubusercontent.com/nisalgunawardhana/Github-models-starter-pro/main/Images/badge.png" alt="GitHub Models Starter Pro Badge" height="110"/></a>
+<a href="https://github.com/nisalgunawardhana/How-To-Create-MCP-Server/issues/58"><img src="https://raw.githubusercontent.com/nisalgunawardhana/How-To-Create-MCP-Server/main/images/badge.png" alt="How to Create MCP Server Badge" height="110"/></a>
 
 </div>
 
 ---
 
-## 💼 Tech Stack
+<!-- Tech Stack Section -->
+## 🛠️ Tech Stack & Skills
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+<h3 align="center">Programming Languages</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+<h3 align="center">Backend & Cloud</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+</p>
+
+<h3 align="center">Frontend</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue.js" />
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+</p>
+
+<h3 align="center">Database</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
+</p>
+
+<h3 align="center">DevOps & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="TensorFlow" />
+</p>
 
 ---
 
-## 📊 GitHub Statistics
+<!-- GitHub Stats & Analytics Section -->
+## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <!-- GitHub Stats Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=dracula&include_all_commits=true&ring_color=8B5CF6" />
+  <a href="https://github.com/pruthuvide">
+    <img height="195" src="https://github-readme-stats.vercel.app/api?username=pruthuvide&show_icons=true&theme=dracula&include_all_commits=true&ring_color=8B5CF6&border_radius=10" alt="GitHub Stats" />
   </a>
-  
-  <!-- Top Languages Card -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&langs_count=8&theme=dracula&card_width=320" />
+  <a href="https://github.com/pruthuvide">
+    <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&langs_count=8&theme=dracula&card_width=320&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=dark&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=pruthuvide&theme=dracula&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=pruthuvide&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+<h3 align="center">📈 Contribution Activity Graph</h3>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthuvide&theme=dracula&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+</div>
+
+<br/>
+
+<h3 align="center">🏙️ 3D Contribution City</h3>
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D Isometric Contribution City Map" width="100%" />
 </div>
 
 ---
 
-## ✍️ Random Dev Quote
+<!-- Dev Quote -->
+## ✍️ Dev Quote
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="GitHub Streak"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
 </div>
 
 ---
 
-## 📈 Activity Graph
+<!-- Connect with Me Section -->
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/pruthuvide" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/pruthuvide" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Twitter.svg" alt="Twitter" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://youtube.com/@pruthuvide" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Youtube.svg" alt="YouTube" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://medium.com/@pruthuvide" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Medium.svg" alt="Medium" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="mailto:pruthuvidesilva@gmail.com">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" alt="Gmail" width="40" />
+  </a>&nbsp;&nbsp;
+  <a href="https://pruthuvide.is-a.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Website" width="40" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pruthuvide" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;" />
+  </a>
+</p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthuvide&theme=dracula&hide_border=true&area=true" alt="Contribution Activity Graph"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Divider" width="100%" />
 </div>
-
----
