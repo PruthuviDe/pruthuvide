@@ -115,30 +115,36 @@
 
 <div align="center">
   <a href="https://github.com/pruthuvide">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pruthuvide&show_icons=true&theme=dracula&include_all_commits=true&ring_color=8B5CF6&border_radius=10" alt="GitHub Stats" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pruthuvide&show_icons=true&theme=merko&include_all_commits=true&border_radius=10" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/pruthuvide">
-    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&langs_count=8&theme=dracula&card_width=320&border_radius=10" alt="Top Languages" />
+    <img height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pruthuvide&layout=compact&langs_count=8&theme=merko&card_width=320&border_radius=10" alt="Top Languages" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=pruthuvide&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <img src="https://stats.pphat.top/languages?username=pruthuvide" alt="Top Languages Visual" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://trophy.ryglcloud.net/?username=pruthuvide&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://streak-stats.demolab.com/?user=pruthuvide&theme=merko&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://trophy.ryglcloud.net/?username=pruthuvide&theme=merko&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
 <h3 align="center">📈 Contribution Activity Graph</h3>
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthuvide&theme=dracula&hide_border=true&area=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pruthuvide&theme=merko&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 </div>
 
 <br/>
@@ -148,13 +154,11 @@
   <img src="profile-3d-city.svg" alt="3D Isometric Contribution City Map" width="100%" />
 </div>
 
----
+<br/>
 
-<!-- Dev Quote -->
-## ✍️ Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Dev Quote" />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
 
 ---
 
